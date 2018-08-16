@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jms-live-chat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-05 12:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: jms-live-chat.php:164 jms-live-chat.php:165
+msgid "Live Chat"
+msgstr "健康需求咨询"
+
+#: jms-live-chat.php:173 jms-live-chat.php:174
+#: template/livechat-history-details.php:4 template/livechat-history.php:4
+msgid "Chat History"
+msgstr "健康咨询历史记录"
+
+#: jms-live-chat.php:183 jms-live-chat.php:194
+msgid "You do not have sufficient permissions to access this page."
+msgstr "对不起，您没有相应的权限访问该页面。"
+
+#: jms-live-chat.php:206
+msgid "Invalid Request."
+msgstr "对不起，您的请求错误。"
+
+#: template/livechat-agent-form.php:8 template/livechat-client-form.php:9
+msgid "Guest"
+msgstr "客户"
+
+#: template/livechat-agent-form.php:94 template/livechat-client-form.php:59
+msgid "You cannot send empty message!"
+msgstr "对不起，您不能发送空消息！"
+
+#: template/livechat-agent-form.php:223
+msgid "Customers Who Need Help"
+msgstr "客户"
+
+#: template/livechat-agent-form.php:334
+msgid "Live Support Agent"
+msgstr "服务人员"
+
+#: template/livechat-agent-form.php:350
+msgid "Agent Name"
+msgstr "服务人员姓名"
+
+#: template/livechat-agent-form.php:355 template/livechat-client-form.php:209
+#: template/livechat-history-details.php:90
+msgid "Message"
+msgstr "消息"
+
+#: template/livechat-agent-form.php:359 template/livechat-client-form.php:212
+msgid "Submit"
+msgstr "发送"
+
+#: template/livechat-agent-form.php:361
+msgid "Finish Chat"
+msgstr "结束会话"
+
+#: template/livechat-client-form.php:200
+msgid "Welcome to Live Chat"
+msgstr "欢迎来到芮生健康咨询服务"
+
+#: template/livechat-client-form.php:205
+msgid "Name"
+msgstr "您的姓名"
+
+#: template/livechat-history-details.php:11
+msgid "Back"
+msgstr "返回"
+
+#: template/livechat-history-details.php:71 template/livechat-history.php:63
+msgid "Message List"
+msgstr "消息列表"
+
+#: template/livechat-history-details.php:84 template/livechat-history.php:76
+msgid "Customer Name"
+msgstr "客户姓名"
+
+#: template/livechat-history-details.php:87 template/livechat-history.php:79
+msgid "Date (UTC)"
+msgstr "咨询时间"
+
+#: template/livechat-history-details.php:93 template/livechat-history.php:82
+msgid "Status"
+msgstr "咨询状态"
+
+#: template/livechat-history-details.php:96 template/livechat-history.php:85
+msgid "Last Replied By"
+msgstr "回复客服"
+
+#: template/livechat-history-details.php:140 template/livechat-history.php:122
+msgid "Not Replied"
+msgstr "未回复"
+
+#: template/livechat-history-details.php:142 template/livechat-history.php:124
+msgid "Replied"
+msgstr "已回复"
+
+#: template/livechat-history-details.php:144 template/livechat-history.php:126
+msgid "Finished"
+msgstr "已解决"
+
+#. Plugin Name of an extension
+msgid "JMS Live Chat"
+msgstr "芮生健康咨询服务"
+
+#. Description of an extension
+msgid "The extension will help to provide a online live chat support service."
+msgstr "为用户提供一个线上健康咨询服务的平台。"

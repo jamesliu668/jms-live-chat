@@ -1,0 +1,112 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: jms-live-chat 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-05 12:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: jms-live-chat.php:164 jms-live-chat.php:165
+msgid "Live Chat"
+msgstr ""
+
+#: jms-live-chat.php:173 jms-live-chat.php:174
+#: template/livechat-history-details.php:4 template/livechat-history.php:4
+msgid "Chat History"
+msgstr ""
+
+#: jms-live-chat.php:183 jms-live-chat.php:194
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: jms-live-chat.php:206
+msgid "Invalid Request."
+msgstr ""
+
+#: template/livechat-agent-form.php:8 template/livechat-client-form.php:9
+msgid "Guest"
+msgstr ""
+
+#: template/livechat-agent-form.php:94 template/livechat-client-form.php:59
+msgid "You cannot send empty message!"
+msgstr ""
+
+#: template/livechat-agent-form.php:223
+msgid "Customers Who Need Help"
+msgstr ""
+
+#: template/livechat-agent-form.php:334
+msgid "Live Support Agent"
+msgstr ""
+
+#: template/livechat-agent-form.php:350
+msgid "Agent Name"
+msgstr ""
+
+#: template/livechat-agent-form.php:355 template/livechat-client-form.php:209
+#: template/livechat-history-details.php:90
+msgid "Message"
+msgstr ""
+
+#: template/livechat-agent-form.php:359 template/livechat-client-form.php:212
+msgid "Submit"
+msgstr ""
+
+#: template/livechat-agent-form.php:361
+msgid "Finish Chat"
+msgstr ""
+
+#: template/livechat-client-form.php:200
+msgid "Welcome to Live Chat"
+msgstr ""
+
+#: template/livechat-client-form.php:205
+msgid "Name"
+msgstr ""
+
+#: template/livechat-history-details.php:11
+msgid "Back"
+msgstr ""
+
+#: template/livechat-history-details.php:71 template/livechat-history.php:63
+msgid "Message List"
+msgstr ""
+
+#: template/livechat-history-details.php:84 template/livechat-history.php:76
+msgid "Customer Name"
+msgstr ""
+
+#: template/livechat-history-details.php:87 template/livechat-history.php:79
+msgid "Date (UTC)"
+msgstr ""
+
+#: template/livechat-history-details.php:93 template/livechat-history.php:82
+msgid "Status"
+msgstr ""
+
+#: template/livechat-history-details.php:96 template/livechat-history.php:85
+msgid "Last Replied By"
+msgstr ""
+
+#: template/livechat-history-details.php:140 template/livechat-history.php:122
+msgid "Not Replied"
+msgstr ""
+
+#: template/livechat-history-details.php:142 template/livechat-history.php:124
+msgid "Replied"
+msgstr ""
+
+#: template/livechat-history-details.php:144 template/livechat-history.php:126
+msgid "Finished"
+msgstr ""

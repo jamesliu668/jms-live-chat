@@ -1,0 +1,110 @@
+.panel {
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+
+.panel-default {
+    border-color: #ddd;
+}
+
+#div_chat {
+	height: 200px;
+	overflow: auto;
+	padding: 10px;
+}
+
+.messagebox {
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px dashed gray;
+}
+
+.messagebox .name {
+	margin-right: 5px;
+	font-weight: bold;
+}
+
+.messagebox .time {
+	font-style: italic;
+	font-size: 9px;
+}
+
+.minebox {
+}
+
+.adminbox {
+}
+
+.adminbox .name {
+	color: #1EA01F;
+}
+
+.chat_time {
+	font-style: italic;
+	font-size: 9px;
+}
+
+#txt_name {
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+}
+
+.smile-face {
+	margin: 0 0 10px 0;
+}
+
+.smile-face img {
+	padding: 5px;
+	cursor: pointer;
+}
+
+.list-group {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.list-group-title {
+	font-size: 1.2em;
+}
+
+.list-group-item {
+    display: inline-block;
+    width: 100px;
+    margin: 5px 10px 5px 0;
+    padding: 5px;
+	font-size: 1.1em;
+	border: 1px solid;
+}
+
+.list-group-item.chatting {
+    color: white;
+}
+
+.list-group-item .badge {
+    float: right;
+}
+
+
+.list-group-item.chatting, .list-group-item.chatting:focus, .list-group-item.chatting:hover {
+  text-shadow: 0 -1px 0 #286090;
+  background-image: -webkit-linear-gradient(top,#337ab7 0,#2b669a 100%);
+  background-image: -o-linear-gradient(top,#337ab7 0,#2b669a 100%);
+  background-image: -webkit-gradient(linear,left top,left bottom,from(#337ab7),to(#2b669a));
+  background-image: linear-gradient(to bottom,#337ab7 0,#2b669a 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff337ab7', endColorstr='#ff2b669a', GradientType=0);
+  background-repeat: repeat-x;
+  border-color: #2b669a;
+}
+
+.not-active {
+   pointer-events: none;
+   cursor: default;
+   background: #cccccc;
+   border-color: #cccccc;
+}
